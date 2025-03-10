@@ -1,5 +1,5 @@
 # Adrastea
-Calculation of energy and air conditioning infrastructures
+Application developed in Java for user calculation of energy and air conditioning infrastructures
 
 # Functions
 
